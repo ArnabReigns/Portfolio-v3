@@ -3,7 +3,7 @@ const archives = [
     heading: "Portfolio v3",
     desc: "This is my current portfolio you are viewing.",
     used: ["React Js", "Sass","Jquery"],
-    gitLink: "",
+    gitLink: "https://github.com/ArnabReigns/Portfolio-v3",
     previewLink: "/",
   },
   {
