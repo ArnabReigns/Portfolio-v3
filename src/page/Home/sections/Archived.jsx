@@ -5,7 +5,9 @@ import ArchivedCard from "../../../components/ArchivedCard";
 const Archived = () => {
 
   const [showAll, setShowAll] = useState(false);
-  const [cur,setCur] = useState(6);
+
+  window.onresize = () => setCur(window.innerWidth <= 620 ? 3 : 6);
+  const [cur,setCur] = useState(window.innerWidth <= 620 ? 3 : 6 );
 
   return (
     <div className="archived">

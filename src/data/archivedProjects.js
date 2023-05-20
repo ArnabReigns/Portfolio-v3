@@ -1,7 +1,7 @@
 const archives = [
   {
     heading: "Portfolio v3",
-    desc: "This is my current portfolio you are viewing.",
+    desc: "This is my current portfolio you are visiting.",
     used: ["React Js", "Sass","Jquery"],
     gitLink: "https://github.com/ArnabReigns/Portfolio-v3",
     previewLink: "/",
@@ -28,18 +28,25 @@ const archives = [
     previewLink: "https://arnabreigns.github.io/Rdemy/",
   },
   {
-    heading: "Aim Practice Game",
+    heading: "Raytm - Online Recharge Service Frontend",
     desc: "corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui",
-    used: ["Html", "Css", "javascript"],
+    used: ["Html", "Css", "javascript","Bootstrap"],
     gitLink: "",
     previewLink: "https://raytm.netlify.app",
   },
   {
-    heading: "portfolio-v2",
+    heading: "Portfolio v2",
     desc: "corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui",
     used: ["Html", "Css", "Javascript", "Jquery", "Gsap"],
     gitLink: "",
     previewLink: "https://arnabchatterjee-official.netlify.app/",
+  },
+  {
+    heading: "Aimlab - Aim Practice Game",
+    desc: "corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui",
+    used: ["Html", "Css", "javascript"],
+    gitLink: "https://github.com/ArnabReigns/Aim-lab",
+    previewLink: "https://arnabreigns.github.io/Aim-lab/",
   },
   {
     heading: "MonkeyType Clone",
@@ -57,7 +64,7 @@ const archives = [
     previewLink: "https://arnabreigns.github.io/tensorflow_clone/",
   },
   {
-    heading: "portfolio-v1",
+    heading: "Portfolio v1",
     desc: "corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui",
     used: ["Html", "Css", "javascript"],
     gitLink: "https://github.com/ArnabReigns/First-Portfolio/tree/master",
